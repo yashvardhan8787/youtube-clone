@@ -11,11 +11,11 @@ function App() {
 
   return (  
      <AppContext>
-      <BrowserRouter>
+      <BrowserRouter basename="/youtube-clone">
       <div className="flex flex-col h-full">
       <Header />
       <Routes>
-        <Route path="/"  excat element={<Feed />} ></Route>
+        <Route path="/youtube-clone"  excat element={<Feed />} ></Route>
         <Route path="/searchResult/:searchQuery" element={<SearchResults />} ></Route>
         <Route path="/video/:id" element={<VideoDetails />} ></Route>
       </Routes>
