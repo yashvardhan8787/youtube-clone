@@ -89,8 +89,8 @@ const Header = () => {
           
         </div>
         <div className="flex h-8 w-8 overflow-hidden rounded-full md:ml-4">
-            <img src="" alt="profile" />
-          </div>
+            <img src="https://lh3.googleusercontent.com/pw/AP1GczPAYW4zMiEC6aWa6lTmJ2Uz_lMue4tbaoSFwMkqDbNTqrNLI4RHxqUORY95IfBBM3diIffSavN-_xlHifsaTBb9y1Z37Mcw6qw9N63gLswINWx88m54TY5naVikCcy0uOPhPijshUVvCF7UG3k4BR1O=w685-h913-s-no-gm?authuser=0" alt="profile" />
+           </div>
 
       </div>
     </div>
